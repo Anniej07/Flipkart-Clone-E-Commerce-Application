@@ -86,3 +86,10 @@ Anish Jerina
 
 Backend Development | Learning Project
 
+## Entity Relationship Diagram
+
+The following UML class diagram illustrates
+the database structure and relationships
+of the e-commerce application.
+
+![E-Commerce UML Diagram](docs/ecommerce-uml.png)
